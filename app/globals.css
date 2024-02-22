@@ -40,6 +40,7 @@ body {
   padding: .4rem;
   flex-grow:unset;
   background-color: var(--a4);
+  width: 40vh;
 }
 
 .box {
@@ -89,7 +90,7 @@ body {
 .sortbySelect {
   position: absolute;
   top: inherit;
-  left: calc(inherit);
+  left: 6rem;
 }
 .sortbySelect.on {
   display: block;
