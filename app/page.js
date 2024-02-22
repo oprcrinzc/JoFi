@@ -10,8 +10,8 @@ export default function Home() {
   const sortbyDict = {
     1:"create old, new",
     2:"create new, old",
-    3:"death line long, short",
-    4:"death line short, long",
+    3:"deadline long, short",
+    4:"deadline short, long",
     5:"difficult hard, easy",
     6:"difficult easy, hard",
     7:"price more, less",
